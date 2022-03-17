@@ -1,5 +1,5 @@
 # ConstructionCompanyWebsite
-Me [@YousefOnWeb](https://github.com/yousefonweb) and my lovely friend from university [@zaitounish](https://github.com/zaitounish) made this website project as an assignment for our Web Technologies Associate Professor.<br>
+Me [@zaitounish](https://github.com/zaitounish) and my lovely friend from university [@YousefOnWeb](https://github.com/yousefonweb) made this website project as an assignment for our Web Technologies Associate Professor.<br>
 We have decided to make the website for a construction company out of the choices was provided to us.<br>We
 assumed the company is called Egystruct, and it offers construction services, and it’s expanding its
 reachability through the website.<br>
@@ -8,4 +8,4 @@ reachability through the website.<br>
 * The site's interface is not yet phone-friendly.
 <br>
 
-Visit the site here: [https://yousefonweb.github.io/ConstructionCompanyWebpage/Home](https://yousefonweb.github.io/ConstructionCompanyWebpage/Home)
+
